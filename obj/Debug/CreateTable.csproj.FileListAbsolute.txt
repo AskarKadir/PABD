@@ -1,0 +1,7 @@
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\ACT 4\CreateTable\obj\Debug\CreateTable.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\ACT 4\CreateTable\obj\Debug\CreateTable.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\ACT 4\CreateTable\bin\Debug\CreateTable.exe.config
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\ACT 4\CreateTable\bin\Debug\CreateTable.exe
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\ACT 4\CreateTable\bin\Debug\CreateTable.pdb
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\ACT 4\CreateTable\obj\Debug\CreateTable.exe
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\ACT 4\CreateTable\obj\Debug\CreateTable.pdb
